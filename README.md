@@ -27,6 +27,8 @@ This project focuses on delivering a comprehensive analytical solution using Pow
 
 The analysis highlights clear gaps between Actual and Budget performance and provides insights into key drivers influencing growth and profitability.
 
+![image alt](https://github.com/Aashriya11/Crunchy-Corner-Business-Analysis/blob/196b12c394bd73b8e00971a4197f07e90d8493fd/Dashboard%20image.png)
+
 ---
 
 ## 2.	Data Pre-processing Process
