@@ -1,4 +1,5 @@
 # Crunchy-Corner-Business-Analysis
+✨ From Crunchy Numbers to Clear Insights ✨
 
 Crunchy Corner is one of India largest Fast Foods restaurant chain and serving millions of customers daily across various cities in India with more than 1000 restaurant and have largest SKU in the industry. 
 This dashboard offers a thorough analysis of the company's financial performance, comparing actual figures with budgeted data, and providing insights: overall sales, gross profit, PAT and EBITDA of the company. This facilitates effective data-driven decision-making for the company.
