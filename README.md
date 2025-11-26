@@ -287,7 +287,7 @@ To enhance this analysis, I created a separate Mekko table in Excel, grouping SK
 *	Volume Effect: Positive (+259K), showing expected demand growth.
 *	Overall Result: Budget expects improvement due to favourable mix + higher volume, despite price pressure.
 
---
+---
 
 ## 5.	Conclusion
 
@@ -296,7 +296,7 @@ Sales, EBITDA, PAT, and Volume all remain **below budget for five consecutive ye
 Customer and product concentration remain extremely high—**13% of SKUs contribute 80% of sales, and Top 100 customers contribute nearly 45% revenue**—exposing the company to dependency risks. Additionally, product mix analysis shows that only a few categories (e.g., Protein Pack, Country Fries, Fresh Fare) drive most of the profitability, while others remain underperforming.
 Overall, despite a strong product portfolio and wide footprint, Crunchy Corner faces challenges in **pricing, cost management, product mix optimization, channel performance, and meeting budget expectations**. The insights from this dashboard provide clear direction for strategic and operational improvements.
 
---
+---
 
 ## 6.	Future Scope
 
@@ -341,7 +341,7 @@ Based on the analysis and insights generated, multiple future improvement opport
 *	Improve performance in low-yield locations through targeted interventions.
 *	Reassess inventory levels region-wise for cost and service optimization.
 
---
+---
 
 ## 🔗 Connect
 Feel free to connect for collaboration, reviews, or suggestions to enhance this project further.
